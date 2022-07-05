@@ -1,0 +1,20 @@
+{
+  "name": "gotipathcdn-token",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "video.js": "^7.19.2",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@videojs/http-streaming": "^2.14.2",
+    "crypto-js": "^4.1.1",
+    "date-and-time": "^2.4.0",
+    "hmacsha1": "^1.0.0"
+  }
+}
